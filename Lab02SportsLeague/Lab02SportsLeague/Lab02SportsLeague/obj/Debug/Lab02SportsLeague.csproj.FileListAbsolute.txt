@@ -1,0 +1,7 @@
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab02SportsLeague\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.exe.config
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab02SportsLeague\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.exe
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab02SportsLeague\Lab02SportsLeague\Lab02SportsLeague\bin\Debug\Lab02SportsLeague.pdb
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab02SportsLeague\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.csprojAssemblyReference.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab02SportsLeague\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.csproj.CoreCompileInputs.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab02SportsLeague\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.exe
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab02SportsLeague\Lab02SportsLeague\Lab02SportsLeague\obj\Debug\Lab02SportsLeague.pdb
