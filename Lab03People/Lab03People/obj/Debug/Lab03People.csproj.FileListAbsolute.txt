@@ -1,0 +1,7 @@
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab03People\Lab03People\obj\Debug\Lab03People.csprojAssemblyReference.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab03People\Lab03People\obj\Debug\Lab03People.csproj.CoreCompileInputs.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab03People\Lab03People\bin\Debug\Lab03People.exe.config
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab03People\Lab03People\bin\Debug\Lab03People.exe
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab03People\Lab03People\bin\Debug\Lab03People.pdb
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab03People\Lab03People\obj\Debug\Lab03People.exe
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab03People\Lab03People\obj\Debug\Lab03People.pdb

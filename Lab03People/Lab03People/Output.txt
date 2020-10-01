@@ -1,0 +1,138 @@
+﻿===== Initial array
+  Name: Homer Simpson, Age: 47
+  Name: Marge Simpson, Age: 45
+  Name: Lisa Simpson, Age: 9
+  Name: Bart Simpson, Age: 8
+  Name: Maggie Simpson, Age: 2
+  Name: Ned Flanders, Age: 42
+  Name: Maude Flanders, Age: 40
+  Name: Rod Flanders, Age: 12
+  Name: Todd Flanders, Age: 13
+===== List created from Array
+  Name: Homer Simpson, Age: 47
+  Name: Marge Simpson, Age: 45
+  Name: Lisa Simpson, Age: 9
+  Name: Bart Simpson, Age: 8
+  Name: Maggie Simpson, Age: 2
+  Name: Ned Flanders, Age: 42
+  Name: Maude Flanders, Age: 40
+  Name: Rod Flanders, Age: 12
+  Name: Todd Flanders, Age: 13
+===== List Sorted by Last Name then First name using default comparer
+  Name: Maude Flanders, Age: 40
+  Name: Ned Flanders, Age: 42
+  Name: Rod Flanders, Age: 12
+  Name: Todd Flanders, Age: 13
+  Name: Bart Simpson, Age: 8
+  Name: Homer Simpson, Age: 47
+  Name: Lisa Simpson, Age: 9
+  Name: Maggie Simpson, Age: 2
+  Name: Marge Simpson, Age: 45
+===== Randomized list (not the array)
+  Name: Homer Simpson, Age: 47
+  Name: Lisa Simpson, Age: 9
+  Name: Maggie Simpson, Age: 2
+  Name: Ned Flanders, Age: 42
+  Name: Marge Simpson, Age: 45
+  Name: Rod Flanders, Age: 12
+  Name: Maude Flanders, Age: 40
+  Name: Bart Simpson, Age: 8
+  Name: Todd Flanders, Age: 13
+===== Randomized list now sorted by First Name
+  Name: Bart Simpson, Age: 8
+  Name: Homer Simpson, Age: 47
+  Name: Lisa Simpson, Age: 9
+  Name: Maggie Simpson, Age: 2
+  Name: Marge Simpson, Age: 45
+  Name: Maude Flanders, Age: 40
+  Name: Ned Flanders, Age: 42
+  Name: Rod Flanders, Age: 12
+  Name: Todd Flanders, Age: 13
+===== Sorted list with 2nd element (Homer) removed
+  Name: Bart Simpson, Age: 8
+  Name: Lisa Simpson, Age: 9
+  Name: Maggie Simpson, Age: 2
+  Name: Marge Simpson, Age: 45
+  Name: Maude Flanders, Age: 40
+  Name: Ned Flanders, Age: 42
+  Name: Rod Flanders, Age: 12
+  Name: Todd Flanders, Age: 13
+===== Stack from sorted list above with Homer removed
+  Name: Todd Flanders, Age: 13
+  Name: Rod Flanders, Age: 12
+  Name: Ned Flanders, Age: 42
+  Name: Maude Flanders, Age: 40
+  Name: Marge Simpson, Age: 45
+  Name: Maggie Simpson, Age: 2
+  Name: Lisa Simpson, Age: 9
+  Name: Bart Simpson, Age: 8
+===== Stack with top 2 flipped
+  Name: Rod Flanders, Age: 12
+  Name: Todd Flanders, Age: 13
+  Name: Ned Flanders, Age: 42
+  Name: Maude Flanders, Age: 40
+  Name: Marge Simpson, Age: 45
+  Name: Maggie Simpson, Age: 2
+  Name: Lisa Simpson, Age: 9
+  Name: Bart Simpson, Age: 8
+===== Queue from sorted list by age with Homer removed
+  Name: Maggie Simpson, Age: 2
+  Name: Bart Simpson, Age: 8
+  Name: Lisa Simpson, Age: 9
+  Name: Rod Flanders, Age: 12
+  Name: Todd Flanders, Age: 13
+  Name: Maude Flanders, Age: 40
+  Name: Ned Flanders, Age: 42
+  Name: Marge Simpson, Age: 45
+===== Age sorted Queue with Grandmas and Grandpas at end
+  Name: Maggie Simpson, Age: 2
+  Name: Bart Simpson, Age: 8
+  Name: Lisa Simpson, Age: 9
+  Name: Rod Flanders, Age: 12
+  Name: Todd Flanders, Age: 13
+  Name: Maude Flanders, Age: 40
+  Name: Ned Flanders, Age: 42
+  Name: Marge Simpson, Age: 45
+  Name: Grandma Simpson, Age: 95
+  Name: Grandpa Simpson, Age: 100
+  Name: Grandma Flanders, Age: 90
+  Name: Grandpa Flanders, Age: 89
+== DeQueue each element and display, queue size = 12
+  Name: Maggie Simpson, Age: 2 left the queue, queue size = 11
+  Name: Bart Simpson, Age: 8 left the queue, queue size = 10
+  Name: Lisa Simpson, Age: 9 left the queue, queue size = 9
+  Name: Rod Flanders, Age: 12 left the queue, queue size = 8
+  Name: Todd Flanders, Age: 13 left the queue, queue size = 7
+  Name: Maude Flanders, Age: 40 left the queue, queue size = 6
+  Name: Ned Flanders, Age: 42 left the queue, queue size = 5
+  Name: Marge Simpson, Age: 45 left the queue, queue size = 4
+  Name: Grandma Simpson, Age: 95 left the queue, queue size = 3
+  Name: Grandpa Simpson, Age: 100 left the queue, queue size = 2
+  Name: Grandma Flanders, Age: 90 left the queue, queue size = 1
+  Name: Grandpa Flanders, Age: 89 left the queue, queue size = 0
+  Dequeue() on an empty queue
+  Cannot Dequeue(): Queue empty.
+===== Phone book
+  Key: 555 Value: Name: Homer Simpson, Age: 47
+  Key: 452 Value: Name: Marge Simpson, Age: 45
+  Key: 253 Value: Name: Lisa Simpson, Age: 9
+  Key: 157 Value: Name: Bart Simpson, Age: 8
+  Key: 855 Value: Name: Maggie Simpson, Age: 2
+  Looking up 157: Name: Bart Simpson, Age: 8
+===== Sorted Phone book
+  Key: 157 Value: Name: Bart Simpson, Age: 8
+  Key: 253 Value: Name: Lisa Simpson, Age: 9
+  Key: 452 Value: Name: Marge Simpson, Age: 45
+  Key: 555 Value: Name: Homer Simpson, Age: 47
+  Key: 855 Value: Name: Maggie Simpson, Age: 2
+===== HashSet with array added twice, but should show no duplicates
+  Name: Homer Simpson, Age: 47
+  Name: Marge Simpson, Age: 45
+  Name: Lisa Simpson, Age: 9
+  Name: Bart Simpson, Age: 8
+  Name: Maggie Simpson, Age: 2
+  Name: Ned Flanders, Age: 42
+  Name: Maude Flanders, Age: 40
+  Name: Rod Flanders, Age: 12
+  Name: Todd Flanders, Age: 13
+  Looking up Name: Lisa Simpson, Age: 9: found = True
