@@ -1,0 +1,10 @@
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\New folder\AS1HChoi\AS1HChoi\bin\Debug\AS1HChoi.exe.config
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\New folder\AS1HChoi\AS1HChoi\bin\Debug\AS1HChoi.exe
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\New folder\AS1HChoi\AS1HChoi\bin\Debug\AS1HChoi.pdb
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\New folder\AS1HChoi\AS1HChoi\obj\Debug\AS1HChoi.csprojAssemblyReference.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\New folder\AS1HChoi\AS1HChoi\obj\Debug\AS1HChoi.CarListingsForm.resources
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\New folder\AS1HChoi\AS1HChoi\obj\Debug\AS1HChoi.Properties.Resources.resources
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\New folder\AS1HChoi\AS1HChoi\obj\Debug\AS1HChoi.csproj.GenerateResource.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\New folder\AS1HChoi\AS1HChoi\obj\Debug\AS1HChoi.csproj.CoreCompileInputs.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\New folder\AS1HChoi\AS1HChoi\obj\Debug\AS1HChoi.exe
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\New folder\AS1HChoi\AS1HChoi\obj\Debug\AS1HChoi.pdb
