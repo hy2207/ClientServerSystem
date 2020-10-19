@@ -1,0 +1,297 @@
+﻿== Test Scores ==
+25
+35
+55
+60
+65
+72
+77
+80
+91
+95
+100
+== Test Scores > 75 ==
+95
+100
+91
+80
+77
+== Test Scores above midpoint 62 ==
+{ Midpoint = 62, score = 65 }
+{ Midpoint = 62, score = 72 }
+{ Midpoint = 62, score = 77 }
+{ Midpoint = 62, score = 80 }
+{ Midpoint = 62, score = 91 }
+{ Midpoint = 62, score = 95 }
+{ Midpoint = 62, score = 100 }
+
+== Student Scores: All Count 45 ==
+Name: Michael, Scores: 94, 92, 91, 91
+Name: Isabelle, Scores: 66, 87, 65, 93
+Name: Chastity, Scores: 76, 61, 73, 66
+Name: Chaim, Scores: 94, 55, 82, 62
+Name: Patience, Scores: 91, 79, 58, 63
+Name: Echo, Scores: 74, 85, 73, 75
+Name: Pamela, Scores: 73, 64, 53, 72
+Name: Anne, Scores: 78, 96, 52, 79
+Name: Fuller, Scores: 59, 68, 88, 85
+Name: Cameron, Scores: 70, 73, 75, 51
+Name: Aurora, Scores: 65, 70, 53, 80
+Name: Anthony, Scores: 68, 69, 94, 88
+Name: Cheyenne, Scores: 58, 74, 87, 88
+Name: Shana, Scores: 79, 74, 98, 87
+Name: Rina, Scores: 51, 97, 53, 94
+Name: Chadwick, Scores: 69, 87, 93, 81
+Name: Curran, Scores: 91, 82, 54, 64
+Name: Nathaniel, Scores: 78, 56, 90, 66
+Name: Xavier, Scores: 81, 62, 61, 69
+Name: Abel, Scores: 96, 81, 80, 82
+Name: Cassandra, Scores: 50, 82, 58, 89
+Name: Aileen, Scores: 54, 60, 97, 88
+Name: Yvonne, Scores: 91, 89, 64, 93
+Name: Slade, Scores: 64, 57, 90, 96
+Name: Sebastian, Scores: 98, 68, 66, 89
+Name: Eleanor, Scores: 52, 97, 96, 91
+Name: Madaline, Scores: 72, 65, 91, 98
+Name: Hilary, Scores: 79, 68, 86, 50
+Name: Samson, Scores: 87, 63, 58, 78
+Name: Troy, Scores: 75, 82, 89, 90
+Name: Gavin, Scores: 88, 81, 72, 97
+Name: Jackson, Scores: 52, 71, 82, 51
+Name: Bruno, Scores: 62, 66, 70, 82
+Name: Marny, Scores: 91, 85, 78, 93
+Name: Gray, Scores: 93, 69, 95, 52
+Name: Larissa, Scores: 82, 84, 98, 54
+Name: Hope, Scores: 69, 60, 84, 83
+Name: Sydnee, Scores: 97, 69, 58, 53
+Name: Audra, Scores: 82, 83, 89, 56
+Name: Wyoming, Scores: 80, 57, 74, 86
+Name: Connor, Scores: 55, 83, 79, 53
+Name: Philip, Scores: 88, 82, 67, 65
+Name: Sheila, Scores: 79, 91, 99, 72
+Name: Hammett, Scores: 59, 65, 73, 91
+Name: Tanya, Scores: 60, 77, 88, 99
+== Student Scores: first score < 90, Count 35 ==
+Aileen 54
+Anne 78
+Anthony 68
+Audra 82
+Aurora 65
+Bruno 62
+Cameron 70
+Cassandra 50
+Chadwick 69
+Chastity 76
+Cheyenne 58
+Connor 55
+Echo 74
+Eleanor 52
+Fuller 59
+Gavin 88
+Hammett 59
+Hilary 79
+Hope 69
+Isabelle 66
+Jackson 52
+Larissa 82
+Madaline 72
+Nathaniel 78
+Pamela 73
+Philip 88
+Rina 51
+Samson 87
+Shana 79
+Sheila 79
+Slade 64
+Tanya 60
+Troy 75
+Wyoming 80
+Xavier 81
+
+== Students Groups: by first letter of name, Count 19 ==
+A
+ Abel
+ Aileen
+ Anne
+ Anthony
+ Audra
+ Aurora
+B
+ Bruno
+C
+ Cameron
+ Cassandra
+ Chadwick
+ Chaim
+ Chastity
+ Cheyenne
+ Connor
+ Curran
+E
+ Echo
+ Eleanor
+F
+ Fuller
+G
+ Gavin
+ Gray
+H
+ Hammett
+ Hilary
+ Hope
+I
+ Isabelle
+J
+ Jackson
+L
+ Larissa
+M
+ Madaline
+ Marny
+ Michael
+N
+ Nathaniel
+P
+ Pamela
+ Patience
+ Philip
+R
+ Rina
+S
+ Samson
+ Sebastian
+ Shana
+ Sheila
+ Slade
+ Sydnee
+T
+ Tanya
+ Troy
+W
+ Wyoming
+X
+ Xavier
+Y
+ Yvonne
+== Students Groups: ordered descending by average bracket, Count 4 ==
+Score > 90 and < 100
+ Michael 92
+Score > 80 and < 90
+ Yvonne 86.8
+ Anthony 83.4
+ Larissa 82.4
+ Abel 82
+ Madaline 81.2
+ Audra 81.2
+Score > 70 and < 80
+ Marny 79.8
+ Isabelle 79.4
+ Sheila 79.2
+ Shana 79
+ Gavin 79
+ Echo 78.6
+ Wyoming 78.6
+ Troy 77.6
+ Eleanor 77.4
+ Hope 77.4
+ Sebastian 77.2
+ Cheyenne 77
+ Curran 76.8
+ Samson 76.8
+ Chadwick 76.6
+ Gray 76.6
+ Philip 76
+ Fuller 75.2
+ Hilary 74.8
+ Cassandra 74
+ Xavier 73.8
+ Slade 73.6
+ Cameron 73.4
+ Rina 73.2
+ Anne 73
+ Tanya 72.8
+ Aileen 72.2
+ Bruno 70.8
+ Hammett 70.4
+ Sydnee 70.2
+Score > 60 and < 70
+ Patience 69.2
+ Chaim 69
+ Jackson 68.8
+ Nathaniel 68.4
+ Chastity 66
+ Pamela 66
+ Connor 65.6
+ Aurora 64
+
+== Students Score Stats, Count 45 ==
+Name: Abel, Average Score = 82, Max Score = 96, Min Score = 71
+Name: Aileen, Average Score = 72.2, Max Score = 97, Min Score = 54
+Name: Anne, Average Score = 73, Max Score = 96, Min Score = 52
+Name: Anthony, Average Score = 83.4, Max Score = 98, Min Score = 68
+Name: Audra, Average Score = 81.2, Max Score = 96, Min Score = 56
+Name: Aurora, Average Score = 64, Max Score = 80, Min Score = 52
+Name: Bruno, Average Score = 70.8, Max Score = 82, Min Score = 62
+Name: Cameron, Average Score = 73.4, Max Score = 98, Min Score = 51
+Name: Cassandra, Average Score = 74, Max Score = 91, Min Score = 50
+Name: Chadwick, Average Score = 76.6, Max Score = 93, Min Score = 53
+Name: Chaim, Average Score = 69, Max Score = 94, Min Score = 52
+Name: Chastity, Average Score = 66, Max Score = 76, Min Score = 54
+Name: Cheyenne, Average Score = 77, Max Score = 88, Min Score = 58
+Name: Connor, Average Score = 65.6, Max Score = 83, Min Score = 53
+Name: Curran, Average Score = 76.8, Max Score = 93, Min Score = 54
+Name: Echo, Average Score = 78.6, Max Score = 86, Min Score = 73
+Name: Eleanor, Average Score = 77.4, Max Score = 97, Min Score = 51
+Name: Fuller, Average Score = 75.2, Max Score = 88, Min Score = 59
+Name: Gavin, Average Score = 79, Max Score = 97, Min Score = 57
+Name: Gray, Average Score = 76.6, Max Score = 95, Min Score = 52
+Name: Hammett, Average Score = 70.4, Max Score = 91, Min Score = 59
+Name: Hilary, Average Score = 74.8, Max Score = 91, Min Score = 50
+Name: Hope, Average Score = 77.4, Max Score = 91, Min Score = 60
+Name: Isabelle, Average Score = 79.4, Max Score = 93, Min Score = 65
+Name: Jackson, Average Score = 68.8, Max Score = 88, Min Score = 51
+Name: Larissa, Average Score = 82.4, Max Score = 98, Min Score = 54
+Name: Madaline, Average Score = 81.2, Max Score = 98, Min Score = 65
+Name: Marny, Average Score = 79.8, Max Score = 93, Min Score = 52
+Name: Michael, Average Score = 92, Max Score = 94, Min Score = 91
+Name: Nathaniel, Average Score = 68.4, Max Score = 90, Min Score = 52
+Name: Pamela, Average Score = 66, Max Score = 73, Min Score = 53
+Name: Patience, Average Score = 69.2, Max Score = 91, Min Score = 55
+Name: Philip, Average Score = 76, Max Score = 88, Min Score = 65
+Name: Rina, Average Score = 73.2, Max Score = 97, Min Score = 51
+Name: Samson, Average Score = 76.8, Max Score = 98, Min Score = 58
+Name: Sebastian, Average Score = 77.2, Max Score = 98, Min Score = 65
+Name: Shana, Average Score = 79, Max Score = 98, Min Score = 57
+Name: Sheila, Average Score = 79.2, Max Score = 99, Min Score = 55
+Name: Slade, Average Score = 73.6, Max Score = 96, Min Score = 57
+Name: Sydnee, Average Score = 70.2, Max Score = 97, Min Score = 53
+Name: Tanya, Average Score = 72.8, Max Score = 99, Min Score = 40
+Name: Troy, Average Score = 77.6, Max Score = 90, Min Score = 52
+Name: Wyoming, Average Score = 78.6, Max Score = 96, Min Score = 57
+Name: Xavier, Average Score = 73.8, Max Score = 96, Min Score = 61
+Name: Yvonne, Average Score = 86.8, Max Score = 97, Min Score = 64
+All students overall average score = 75.5
+All students average of highest score = 92.5
+All students average of lowest score = 57.2
+
+Searching for the following students:
+Bruno
+Tanya
+Tony
+Sami
+Found the following students:
+Name: Bruno, Scores: 62, 66, 70, 82
+Name: Tanya, Scores: 60, 77, 88, 99
+Searching for the following students:
+Xerxes
+Found the following students:
+
+Clock started at 1/2/2020 6:12:25 PM
+Hit enter to stop the clock ticking
+Clock tick 1
+Clock tick 2
+Clock tick 3
+Clock tick 4
+
+Clock stopped at 1/2/2020 6:12:29 PM, 4 ticks
+

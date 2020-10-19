@@ -1,0 +1,13 @@
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\bin\Debug\StudentTestScores.exe.config
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\bin\Debug\StudentTestScores.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\bin\Debug\StudentTestScores.pdb
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\obj\Debug\StudentTestScores.csprojAssemblyReference.cache
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\obj\Debug\StudentTestScores.exe
+C:\Users\mhryb_000\OneDrive\Documents\CSIS 3540\Labs\Lab04StudentTestScores\Lab04StudentTestScores\obj\Debug\StudentTestScores.pdb
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab04StudentTestScores\Lab04StudentTestScores\Lab04StudentTestScores\bin\Debug\StudentTestScores.exe.config
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab04StudentTestScores\Lab04StudentTestScores\Lab04StudentTestScores\bin\Debug\StudentTestScores.exe
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab04StudentTestScores\Lab04StudentTestScores\Lab04StudentTestScores\bin\Debug\StudentTestScores.pdb
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab04StudentTestScores\Lab04StudentTestScores\Lab04StudentTestScores\obj\Debug\StudentTestScores.csprojAssemblyReference.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab04StudentTestScores\Lab04StudentTestScores\Lab04StudentTestScores\obj\Debug\StudentTestScores.csproj.CoreCompileInputs.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab04StudentTestScores\Lab04StudentTestScores\Lab04StudentTestScores\obj\Debug\StudentTestScores.exe
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab04StudentTestScores\Lab04StudentTestScores\Lab04StudentTestScores\obj\Debug\StudentTestScores.pdb
