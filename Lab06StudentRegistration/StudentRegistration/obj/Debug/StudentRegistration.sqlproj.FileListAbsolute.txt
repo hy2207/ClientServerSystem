@@ -1,0 +1,9 @@
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dacpac
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.dll
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistration\obj\Debug\Model.xml
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistration\obj\Debug\refactor.xml
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistration\obj\Debug\postdeploy.sql
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistration\obj\Debug\predeploy.sql
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb

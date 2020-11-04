@@ -1,0 +1,6 @@
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\DataTableAccessLayer\bin\Debug\SqlDataTableAccessLayer.dll
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\DataTableAccessLayer\bin\Debug\SqlDataTableAccessLayer.pdb
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\DataTableAccessLayer\obj\Debug\DataTableAccessLayer.csprojAssemblyReference.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\DataTableAccessLayer\obj\Debug\DataTableAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\DataTableAccessLayer\obj\Debug\SqlDataTableAccessLayer.dll
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\DataTableAccessLayer\obj\Debug\SqlDataTableAccessLayer.pdb

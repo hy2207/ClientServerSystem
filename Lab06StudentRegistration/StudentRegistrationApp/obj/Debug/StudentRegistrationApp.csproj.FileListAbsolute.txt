@@ -1,0 +1,13 @@
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.exe.config
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.exe
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\bin\Debug\StudentRegistrationApp.pdb
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\bin\Debug\SqlDataTableAccessLayer.dll
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\bin\Debug\SqlDataTableAccessLayer.pdb
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csprojAssemblyReference.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.Properties.Resources.resources
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.StudentRegistrationAppForm.resources
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.GenerateResource.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.csproj.CopyComplete
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.exe
+C:\Users\hy398\Desktop\2020Fall\CSIS4050\Lab\Lab06StudentRegistration\StudentRegistrationApp\obj\Debug\StudentRegistrationApp.pdb
